@@ -1,0 +1,6 @@
+{
+  "name": "Kas XI-F4",
+  "description": "Aplikasi pembukuan uang kas harian dan bulanan untuk kelas XI-F4 dengan fitur rekap otomatis hari kerja, cetak PDF, dan ekspor Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
